@@ -1,5 +1,6 @@
 # Weather-App
-get all weather details by entering city (This web app uses react.js, API is being fetched from https://openweathermap.org/api/hourly-forecast  )
+get all weather details by entering city.
+This web app uses react.js, API is being fetched from https://openweathermap.org/api/hourly-forecast  
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
